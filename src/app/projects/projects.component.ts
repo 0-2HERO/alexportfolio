@@ -74,7 +74,7 @@ export class ProjectsComponent implements OnInit {
     this.dialog.open(FourteenthPage);
    }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }

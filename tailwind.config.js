@@ -1,10 +1,11 @@
+
+
 module.exports = {
-    prefix: '',
-    purge: {
+      mode: 'jit',
       content: [
-        './src/**/*.{html,ts}',
-      ]
-    },
+        './src/**/*.{html,ts,js}',
+       
+      ],
     darkMode: 'class', // or 'media' or 'class'
     theme: {
       extend: {},

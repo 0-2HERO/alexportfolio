@@ -9,7 +9,7 @@ export class DialogComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
@@ -24,7 +24,7 @@ export class SecondPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -39,7 +39,7 @@ export class ThirdPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -53,7 +53,7 @@ export class FourthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -67,7 +67,7 @@ export class FifthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -81,7 +81,7 @@ export class SixesPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -95,7 +95,7 @@ export class SeventhPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -109,7 +109,7 @@ export class EightPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 }
 
@@ -123,7 +123,7 @@ export class NinthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 
 
@@ -139,7 +139,7 @@ export class TenthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 
 
@@ -155,7 +155,7 @@ export class EleventhPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 
 
@@ -171,7 +171,7 @@ export class TwelfthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 
 
@@ -187,7 +187,7 @@ export class ThirteenthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 
 
@@ -203,7 +203,7 @@ export class FourteenthPage  implements OnInit {
 
  constructor() {}
  
- ngOnInit(): void {
+ ngOnInit() {
 }
 
 
